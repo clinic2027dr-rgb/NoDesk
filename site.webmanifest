@@ -1,0 +1,12 @@
+{
+  "name":"العيادة الاستشارية لأمراض وجراحة المخ والأعصاب والعمود الفقري",
+  "short_name":"عيادة الجرباني",
+  "description":"الموقع التعريفي لعيادة الدكتور محمد عبدالله الجرباني",
+  "lang":"ar",
+  "dir":"rtl",
+  "start_url":"./index.html",
+  "display":"browser",
+  "theme_color":"#0b5475",
+  "background_color":"#ffffff",
+  "icons":[{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
